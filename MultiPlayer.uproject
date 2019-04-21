@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{69E80923-4B94-91B4-6607-5D9E8BD6EA76}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MultiPlayer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
